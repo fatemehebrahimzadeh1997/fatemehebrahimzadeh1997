@@ -5,7 +5,7 @@ Environmental Engineer specializing in **building-scale Life Cycle Assessment (L
 Graduated in the **Top 5%** of the MSc Environmental Engineering program at the **Università degli Studi di Padova**. 
 
 ### 💻 Computational LCA & Upskilling
-I leverage Python to transition traditional environmental assessments into code-first, automated matrix engineering workflows. 
+I am actively learning python and Brightway  to transition traditional environmental assessments into code-first, automated matrix engineering workflows. 
 * 📊 **Current Focus:** Developing script pipelines for **Brightway2** database mapping, programmatic foreground inventory exchanges, and matrix inversion mechanics.
 * 🧮 **Stochastic Modeling:** Implementing Python-based **Monte Carlo simulations** (10,000+ iterations) and correlation-based sensitivity analyses to propagate uncertainty in material recovery scenarios.
 
