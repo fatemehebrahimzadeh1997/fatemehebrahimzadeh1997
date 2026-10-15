@@ -9,4 +9,4 @@ I am actively learning python and Brightway  to transition traditional environme
 * **Current Focus:** Developing script pipelines for **Brightway2** database mapping, programmatic foreground inventory exchanges, and matrix inversion mechanics.
 * **Stochastic Modeling:** Implementing Python-based **Monte Carlo simulations** (10,000+ iterations) and correlation-based sensitivity analyses to propagate uncertainty in material recovery scenarios.
 
-📍 Based in Switzerland (Sion) | Full Work Authorization
+Based in Switzerland (Sion) | Full Work Authorization
